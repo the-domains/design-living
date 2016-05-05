@@ -1,7 +1,7 @@
 name: design living
 favicon: null
-layout_spectrum: 0.9649667341727763
-typography_spectrum: 0.4960358259268105
+layout_spectrum: 0
+typography_spectrum: 0.00036
 cta:
   domain: null
   bucket: null
