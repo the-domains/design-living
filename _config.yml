@@ -1,0 +1,28 @@
+name: design living
+favicon: null
+layout_spectrum: 0.9649667341727763
+typography_spectrum: 0.4960358259268105
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7353296969085932
+  lightness: 0.9749016074929386
+  saturation: 0.6365252069663256
+  rhythmicContrast: 0.7307731520850211
+purpose: []
